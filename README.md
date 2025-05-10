@@ -28,11 +28,6 @@ Atualmente estou focado em:
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Luizglc06&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizglc06&layout=compact&theme=radical)
 
-
----
-
-## 📫 Como me encontrar
-
 ---
 
 ## 📫 Como me encontrar
