@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Luiz!
 
-Sou estudante de desenvolvimento de software apaixonado por tecnologia, inovação e soluções inteligentes.
+Sou estudante de tecnologia em busca de crescimento constante e experiências práticas que me desafiem a evoluir como profissional. Tenho dedicação, curiosidade e gosto de aprender por conta própria, explorando soluções criativas para problemas reais. Estou construindo meu portfólio com foco em projetos aplicados e desenvolvimento de habilidades técnicas e comportamentais. Busco uma primeira oportunidade para aplicar o que venho aprendendo e contribuir ativamente em ambientes colaborativos. 
 
 Atualmente estou focado em:
 - 📚 Aprendizado em C, C# e .NET
@@ -15,11 +15,8 @@ Atualmente estou focado em:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
