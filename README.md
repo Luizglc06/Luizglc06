@@ -28,22 +28,20 @@ Atualmente estou focado em:
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Luizglc06&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizglc06&layout=compact&theme=radical)
 
----
-
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição |
-|:--|:--|
-| [PortfolioHUB](https://github.com/Luizglc06/PortfolioHUB) | Meu repositório principal de projetos acadêmicos e pessoais |
-| [TemperatureConverter](https://github.com/Luizglc06/PortfolioHUB/tree/main/Pessoal/TemperatureConverter) | Aplicativo de conversão de temperaturas feito em C# |
-| [Mini-Projetos Web](https://github.com/Luizglc06/PortfolioHUB/tree/main/Pessoal/MiniProjetosWeb) | Páginas simples utilizando HTML5 e CSS3 |
 
 ---
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- [GitHub](https://github.com/Luizglc06)
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-guilherme-lourenco-campos/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Luizglc06)
+
+---
+
 
 ---
 
