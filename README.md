@@ -32,5 +32,5 @@ I am a technology student in constant pursuit of growth and practical experience
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-guilherme-lourenco-campos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-guilherme-campos/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Luizglc06)
